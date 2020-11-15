@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\4labSavarankiškos\3savarankiškas\bin\Debug\3savarankiškas.exe.config
+C:\Users\Dell\source\repos\4labSavarankiškos\3savarankiškas\bin\Debug\3savarankiškas.exe
+C:\Users\Dell\source\repos\4labSavarankiškos\3savarankiškas\bin\Debug\3savarankiškas.pdb
+C:\Users\Dell\source\repos\4labSavarankiškos\3savarankiškas\obj\Debug\3savarankiškas.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\4labSavarankiškos\3savarankiškas\obj\Debug\3savarankiškas.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\4labSavarankiškos\3savarankiškas\obj\Debug\3savarankiškas.exe
+C:\Users\Dell\source\repos\4labSavarankiškos\3savarankiškas\obj\Debug\3savarankiškas.pdb
